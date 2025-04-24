@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Asya Genç
 
-<!--
-**asyagenc/asyagenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year Computer Engineering student at Bahçeşehir University, passionate about software development, UI/UX design, and turning creative ideas into real-world applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Kotlin, C++, SQL (basic)
+- **Android:** Jetpack Compose, Android Studio, Firebase
+- **Other Interests:** UI/UX, Digital Art, Creative Design
+
+## 📌 Projects
+
+### 🟡 [lemonadeo](https://github.com/asyagenc/lemonadeo)  
+A game app designed for kids to learn interactively, built as part of a university group project.  
+**Tech:** Java, Android Studio
+
+### 🟣 [PlateRate](https://github.com/asyagenc/PlateRate)  
+An Android app where users can rate and comment on license plates. Built with Jetpack Compose and Firebase.  
+**Tech:** Kotlin, Jetpack Compose, Firebase
+
+## 🌱 Currently Learning
+
+- Swift & SwiftUI for iOS development
+- More advanced Android features
+- Clean architecture in mobile apps
+
+## ✨ Personal Touch
+
+I enjoy expressing myself through art. My passion for design helps me think about how apps not only function but feel.
+
+## 📫 How to Reach Me
+
+- 📧 Email: [genasya@icloud.com](mailto:genasya@icloud.com)
+- 💻 GitHub: [github.com/asyagenc](https://github.com/asyagenc)
+
+Thanks for visiting my profile! 🌟  
+Let's build something great together 🚀
