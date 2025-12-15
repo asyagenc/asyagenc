@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asya Genç
 
-🎓 I'm a 3rd-year Computer Engineering student at Bahçeşehir University, passionate about software development, UI/UX design, and turning creative ideas into real-world applications.
+🎓 I'm a 4th-year Computer Engineering student at Bahçeşehir University, passionate about software development, UI/UX design, and turning creative ideas into real-world applications.
 
 ## 🛠 Tech Stack
 
@@ -20,7 +20,6 @@ An Android app where users can rate and comment on license plates. Built with Je
 
 ## 🌱 Currently Learning
 
-- Swift & SwiftUI for iOS development
 - More advanced Android features
 - Clean architecture in mobile apps
 
