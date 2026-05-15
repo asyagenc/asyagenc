@@ -4,7 +4,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java, Kotlin, C++, SQL (basic)
+- **Languages:** Java, Kotlin, Python, SQL (basic)
 - **Android:** Jetpack Compose, Android Studio, Firebase
 - **Other Interests:** UI/UX, Digital Art, Creative Design
 
