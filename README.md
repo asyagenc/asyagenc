@@ -29,7 +29,7 @@ I enjoy expressing myself through art. My passion for design helps me think abou
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [genasya@icloud.com](mailto:genasya@icloud.com)
+- 📧 Email: [asyagenc444@gmail.com](mailto:asyagenc444@gmail.com)
 - 💻 GitHub: [github.com/asyagenc](https://github.com/asyagenc)
 
 Thanks for visiting my profile! 🌟  
