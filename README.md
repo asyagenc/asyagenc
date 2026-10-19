@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asya Genç
 
-🎓 I'm a 4th-year Computer Engineering student at Bahçeşehir University, passionate about software development, UI/UX design, and turning creative ideas into real-world applications.
+🎓 I'm a newly graduated Computer Engineer, passionate about software development, UI/UX design, and turning creative ideas into real-world applications.
 
 ## 🛠 Tech Stack
 
